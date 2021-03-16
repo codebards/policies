@@ -13,7 +13,7 @@ When we say “Company”, “we”, “our”, or “us” in this document, we
 
 When we say “Services”, we mean any product created and maintained by Code Bards. That includes Calendarium, and Vegan Realm, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services, or use one of them. We have a specific ownership policy for Calendarium: [Calendarium](https://calendarium.ca/ownership)
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services, or use one of them. We have a specific ownership policy for [Calendarium](../ownership-calendarium/index.md).
 
 We may update these Terms of Service in the future. You can track all changes made since 2021 [on GitHub](https://github.com/codebards/policies/commits/main).
 
