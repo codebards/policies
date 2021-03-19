@@ -17,3 +17,5 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Until the End of the Internet](until-the-end-of-the-internet/index.md)
 * [Taxes](taxes/index.md)
 * Account ownership information for [Calendarium](ownership-calendarium/index.md)
+
+*Last updated: March 18, 2021*

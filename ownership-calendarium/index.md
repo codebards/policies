@@ -1,46 +1,58 @@
 ---
-title: 'Basecamp 3 Account Ownership'
-description: 'Everything you need to know about Basecamp account ownership.'
+title: 'Calendarium Account Ownership'
+description: 'Everything you need to know about Calendarium account ownership.'
 ---
 
-[home]: /
-[help-owners]: https://basecamp.com/help/3/guides/account/ownership
-[help-adminland]: https://basecamp.com/help/3/guides/account/adminland
-[support]: https://basecamp.com/support
-[support-email]: mailto:support@basecamp.com
+# Who owns a Calendarium account?
 
-# Who owns a Basecamp 3 account?
+*Last updated: March 18, 2021*
 
-Basecamp 3 accounts are owned by individuals, not by organizations. When you sign up and create a [Basecamp account][home], you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
+Calendarium accounts are owned by individuals, not by organizations. There are two types of Calendarium accounts: 
 
-## What can account owners do?
+- **Free accounts**: when you sign up and create a [Calendarium account](https://calendarium.ca/sign-up), you have a free account. You can view everything that an anonymous [Calendarium](https://calendarium.ca) visitor would see.
+- **Subscriber accounts**: when you have a free account and decide to get a paid subscription, you become able to create calendars, and invite other people to contribute to your calendars. These other people you invite will have free accounts. When you create calendars, you are the owner of that calendar and all the data in it. Our legal responsibility is to the calendar owner, so we won’t let other people take over your calendar without your permission.
 
-Account owners can:
+## What can Calendarium subscribers do?
 
-- **Access and export all data in an account**: account owners can add themselves to any Team or Project and view everything in the account trash ([how-to](https://3.basecamp-help.com/article/100-owner-actions)). As an account owner, you can also create an HTML export of your Basecamp account data at any time ([how-to](https://3.basecamp-help.com/article/150-export-your-basecamp-data)). These exports function include everything already accessible to you in your Basecamp account. The exports do not include website interaction logs for any account users and we do not provide such meta-data to account owners. For more details, please read our [Privacy policy](../privacy/index.md), which outlines what meta-data we collect and for what purposes.
-- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and cancelling an account ([how-to](https://3.basecamp-help.com/category/94-account-billing)).
-- **Designate other account owners**: Basecamp 3 accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+Calendarium subscribers can:
 
-## Designating other people as owners
+- **Manage all aspects of their subscription**: including updating billing information and cancelling their account.
+- **Create calendars**: subscribers can create an unlimited number of calendars, and as they create calendars, they become calendar owners of these calendars.
 
-An account owner can add or remove other owners from the [Adminland][help-adminland] section in the account. When you designate someone else as an account owner, they will have the same power to add and remove other owners (including you) at any time.
+## What can calendar owners do?
 
-Adding a new owner to the account (or being removed as an owner) does not remove the credit card from the account. [Please contact support][support] if you’d like to remove the card from the account before you add a new owner with the intent of being removed as an owner yourself.
+Calendar owners can:
 
-## What happens when none of the current account owners are available?
+- **Access and manage all data in a calendar**: calendar owners can edit events they have created and events created by other collaborators of the calendar. They can view and edit all draft events created by other collaborators of the calendar. They can publish, unpublish, and delete all events of the calendar. Calendar owners can also edit the calendar settings, such as if a calendar is public, or if publishing an event requires the owner's approval.
+- **Manage calendar collaborators**: a calendar can have as many collaborators as you want. The calendar owner invites them to collaborate on the calendar, and once they accept the invitation, they become active collaborators. The calendar owner can set a calendar collaborator as inactive if they no longer want them to be able to create events in that calendar. This doesn't delete that collaborator's Calendarium account, they will still be able to sign in and collaborate to other calendars they've been invited to.
+- **Designate another calendar owner**: a Calendarium calendar can only have one owner at a time. At the moment, there is no available feature in Calendarium for the owner to designate someone else as the owner of a calendar, but in the meantime, if you need to pass the torch to someone else, [contact us](mailto:grove@codebards.io) and we'll help you with that.
 
-It happens — people switch jobs, get laid off, go on extended leave — the account owner(s) may be unavailable for any number of reasons. Still, our obligation is to the current account owner(s). That means we’re unable to add new owners to the account without permission from a current account owner, communicated from the email address we have on file.
+## What can calendar collaborators do?
 
-If the account has been frozen due to non-payment for less than a week, we’ll be glad to thaw the account for a week or so, so people can access their work in the meantime.
+Calendar collaborators can:
 
-The quickest route to add a new owner is often to contact a current account owner, and ask them to log in and add another owner right away from the Adminland section.
+- **Manage their own events in the calendar**: calendar collaborators can create, edit, and delete their own events in the calendar they have been invited to. They can save events as draft, and when they are ready, they can publish them, or send them for approval if the calendar owner has configured the calendar settings as such.
 
-Otherwise, we can also gladly reach out to any current account owners at the email addresses we have on file, and request permission to add an owner. If it’s a company address and another employee has access to the inbox, the person who receives the email can grant permission to add a new owner. For security’s sake, permission must come from an address we have on file for a current account owner.
+## Designating other people as calendar owners
 
-When none of the above is an option, a court order is required to add another owner to the account. We will of course readily comply with any court orders to turn data over to the appropriate party.
+A Calendarium calendar can only have one owner at a time. It's the subscriber who created the calendar. This person is responsible of their subscription renewal in order for the calendar to remain active and accessible by the calendar collaborators.
+
+At the moment, there is no available feature in Calendarium for the owner to designate someone else as the owner of a calendar, but in the meantime, if you need to pass the torch to someone else, [contact us](mailto:grove@codebards.io) and we'll help you with that.
+
+## What happens if the current calendar owner is not available?
+
+It happens — people switch jobs, get laid off, go on extended leave — the calendar owner may be unavailable for any number of reasons. Still, our obligation is to the current calendar owner. That means we’re unable to transfer the calendar ownership without permission from the current calendar owner, communicated from the email address we have on file.
+
+If the account has been frozen due to non-payment for less than a week, we’ll be glad to thaw the account for a week or so, so people can access the calendar in the meantime.
+
+The quickest route to change the owner is often to contact the current owner, and ask them to [email us](mailto:grove@codebards.io) the details of the change they want.
+
+Otherwise, we can also gladly reach out to any current calendar owner at the email address we have on file, and request permission to change the owner. If it’s a company address and another employee has access to the inbox, the person who receives the email can grant permission to change the owner. For security’s sake, permission must come from an address we have on file for the current account owner.
+
+When none of the above is an option, a court order is required to change the owner to the calendar. We will of course readily comply with any court orders to turn data over to the appropriate party.
 
 ## What if I have another question about ownership?
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Basecamp [support][support].
+Questions about this account ownership policy? Please get in touch with our [support team](mailto:grove@codebards.io) and we’ll be happy to answer them!
 
-Questions about this account ownership policy? Please get in touch with our [support team][support] and we’ll be happy to answer them!
+Code Bards may update this policy once in a blue moon — we’ll notify you about significant changes by emailing subscribers or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Code Bards [support](mailto:grove@codebards.io).
