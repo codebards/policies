@@ -1,11 +1,11 @@
 ---
-title: Privacy policy
+title: Privacy Policy | Code Bards
 description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
 ---
 
 # Privacy policy
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -103,7 +103,7 @@ We don't delete your data after an account is cancelled. You can request that yo
 
 ## Location of site and data
 
-Our products and other web properties are operated in Canada. If you are located in the European Union or elsewhere outside of Canada, **please be aware that any information you provide to us will be transferred to and stored in Canada**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
+Our products and other web properties are operated in Canada. Our payment processor is located in the USA. If you are located in the European Union or elsewhere outside of Canada, **please be aware that any information you provide to us will be transferred to and stored in Canada, and any billing information provided will be transferred to and stored in the USA**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## When transferring personal data from the EU
 
