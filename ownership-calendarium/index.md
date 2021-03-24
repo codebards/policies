@@ -1,16 +1,16 @@
 ---
-title: 'Calendarium Account Ownership'
-description: 'Everything you need to know about Calendarium account ownership.'
+title: Calendarium Account Ownership | Code Bards
+description: Everything you need to know about Calendarium account ownership.
 ---
 
 # Who owns a Calendarium account?
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 Calendarium accounts are owned by individuals, not by organizations. There are two types of Calendarium accounts: 
 
 - **Free accounts**: when you sign up and create a [Calendarium account](https://calendarium.ca/sign-up), you have a free account. You can view everything that an anonymous [Calendarium](https://calendarium.ca) visitor would see.
-- **Subscriber accounts**: when you have a free account and decide to get a paid subscription, you become able to create calendars, and invite other people to contribute to your calendars. These other people you invite will have free accounts. When you create calendars, you are the owner of that calendar and all the data in it. Our legal responsibility is to the calendar owner, so we won’t let other people take over your calendar without your permission.
+- **Subscriber accounts**: when you have a free account and decide to get a paid subscription, you become able to create calendars, and invite other people to contribute to your calendars. These other people you invite will have free accounts. When you create calendars, you are the owner of these calendars and all the data in them. Our legal responsibility is to the calendar owner, so we won’t let other people take over your calendar without your permission.
 
 ## What can Calendarium subscribers do?
 
