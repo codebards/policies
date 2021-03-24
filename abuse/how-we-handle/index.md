@@ -1,11 +1,11 @@
 ---
-title: How we handle abusive usage
-description: Guiding principles and process for investigating abuse reports
+title: How we handle abusive usage | Code Bards
+description: Guiding principles and process for investigating abuse reports.
 ---
 
 # How we handle abusive usage
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 We build our products* with people's well-being in mind, and we put our hearts into them. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 

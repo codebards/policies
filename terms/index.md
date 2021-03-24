@@ -1,11 +1,11 @@
 ---
-title: Terms of Service
+title: Terms of Service | Code Bards
 description: All the terms that you agree to when you sign up for a Code Bards product.
 ---
 
 # Terms of Service
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 From everyone at Code Bards, thank you for using our products! We build them for your well-being with a touch of magic. We don't know yet when there will be millions of people using Code Bards products, but because someday we may not know every one of our customers personally, we decided to put in place some Terms of Service to help keep the ship afloat.
 

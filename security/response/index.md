@@ -1,11 +1,11 @@
 ---
-title: 'Security Response'
-description: 'Have you discovered a web security flaw that might impact one of our products? Here’s how you can report it.'
+title: Security Response | Code Bards
+description: Have you discovered a web security flaw that might impact one of our products? Here’s how you can report it.
 ---
 
 # Security response
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 ## We appreciate your concern
 

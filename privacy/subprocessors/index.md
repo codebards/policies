@@ -1,11 +1,11 @@
 ---
-title: Code Bards Subprocessors
+title: Subprocessors | Code Bards
 description: All the third-party subprocessors that we use to run Code Bards.
 ---
 
 # Code Bards subprocessors
 
-*Last updated: March 18, 2021*
+*Last updated: March 24, 2021*
 
 We use third party subprocessors, such as cloud computing providers, to provide our services. We also use other software as a company that are not part of providing our services but may collect your personal information for other purposes, such as our emailing software for customer support.
 
