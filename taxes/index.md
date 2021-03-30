@@ -5,9 +5,9 @@ description: We are required to collect and remit sales tax in some jurisdiction
 
 # Sales Taxes!
 
-*Last updated: March 24, 2021*
+*Last updated: March 30, 2021*
 
-Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the provincial and federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line item on your invoice for sales tax. The subscription prices on our product websites are all exclusive of sales tax.
+Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the provincial and federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line or two on the subtotal of your invoice for sales tax. The subscription prices on our product websites are all exclusive of sales tax.
 
 The tax rate and rules are determined by each jurisdiction. As regulations change, we will update this list.
 
@@ -17,7 +17,24 @@ The tax rate and rules are determined by each jurisdiction. As regulations chang
 
 We collect sales tax from [Calendarium](https://calendarium.ca/) subscribers based in:
 
-* Quebec
+
+* Alberta (GST)
+* British Columbia (GST)
+* Manitoba (GST)
+* New Brunswick (HST)
+* Newfoundland and Labrador (HST)
+* Northwest Territories (GST)
+* Nova Scotia (HST)
+* Nunavut (GST)
+* Ontario (HST)
+* Prince Edward Island (HST)
+* Quebec (GST and QST)
+* Saskatchewan (GST)
+* Yukon (GST)
+
+## Jurisdictions we don't collect taxes for
+
+We don't collect taxes everywhere else in the world outside of Canada. Just remember that we bill in Canadian dollars, so you will receive a conversion fee from your credit card company.
 
 ## Updating your billing information
 
