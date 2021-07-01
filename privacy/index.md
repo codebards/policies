@@ -85,7 +85,7 @@ At Code Bards, we apply the same data rights to all customers, regardless of the
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [grove@codebards.io](mailto:grove@codebards.io) or at Code Bards, 1010-1180 rue Louis-Adolphe-Robitaille, Québec, QC, G1S 0C7, Canada. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [grove@codebards.io](mailto:grove@codebards.io) or at Code Bards, 509 rue Racine, Québec, QC, G2B 1G3, Canada. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 

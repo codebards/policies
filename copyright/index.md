@@ -41,7 +41,7 @@ You can notify us of either copyright infringement claims or Notice and Notice c
 **By mail**: 
 Code Bards
 ATTN: Magalie Allard
-1010-1180 rue Louis-Adolphe-Robitaille
-Québec, QC, G1S 0C7, Canada
+509 rue Racine
+Québec, QC, G2B 1G3, Canada
 
 **This policy and process applies to any product created and owned by Code Bards. That includes Calendarium and Vegan Realm.*
