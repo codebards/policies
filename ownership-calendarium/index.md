@@ -1,11 +1,11 @@
 ---
-title: Calendarium Account Ownership | Code Bards
+title: Who owns a Calendarium account? | Code Bards
 description: Everything you need to know about Calendarium account ownership.
 ---
 
 # Who owns a Calendarium account?
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 Calendarium accounts are owned by individuals, not by organizations. There are two types of Calendarium accounts: 
 

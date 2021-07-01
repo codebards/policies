@@ -1,11 +1,11 @@
 ---
-title: Copy that? | Code Bards
+title: Copyright Infringement Claims | Code Bards
 description: How Code Bards handles copyright infringement claims.
 ---
 
 # Copyright Infringement Claims
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 ## Notification of Copyright Infringement Claims
 

@@ -1,11 +1,11 @@
 ---
-title: Cancellation policy | Code Bards
+title: Cancellation Policy | Code Bards
 description: Everything you need to know about canceling your Code Bards product account.
 ---
 
-# Cancellation policy
+# Cancellation Policy
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 

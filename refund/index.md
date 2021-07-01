@@ -1,11 +1,11 @@
 ---
-title: Refund Policy | Code Bards
+title: A Fair Refund Policy | Code Bards
 description: "Bad refund policies are infuriating. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with our products for any reason, we'll take care of you."
 ---
 
-# A fair refund policy
+# A Fair Refund Policy
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you’re ever unhappy with our products* for any reason, just contact [our support team](mailto:grove@codebards.io) and we'll take care of you.
 

@@ -3,9 +3,9 @@ title: Security Overview | Code Bards
 description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here’s how we make it happen.
 ---
 
-# Security overview
+# Security Overview
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 ## We protect your data
 

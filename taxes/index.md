@@ -3,9 +3,9 @@ title: Sales Taxes | Code Bards
 description: We are required to collect and remit sales tax in some jurisdictions.
 ---
 
-# Sales Taxes!
+# Sales Taxes
 
-*Last updated: March 30, 2021*
+*Last updated: July 1, 2021*
 
 Taxes are an important part of functional society. Where our products are taxable, we collect and remit consumption tax to governments at the provincial and federal levels. If your billing address is in one of the following jurisdictions, you’ll see an *additional* line or two on the subtotal of your invoice for sales tax. The subscription prices on our product websites are all exclusive of sales tax.
 

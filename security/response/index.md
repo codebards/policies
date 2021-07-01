@@ -3,9 +3,9 @@ title: Security Response | Code Bards
 description: Have you discovered a web security flaw that might impact one of our products? Here’s how you can report it.
 ---
 
-# Security response
+# Security Response
 
-*Last updated: March 24, 2021*
+*Last updated: July 1, 2021*
 
 ## We appreciate your concern
 
